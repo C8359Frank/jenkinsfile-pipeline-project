@@ -1,2 +1,2 @@
 # jenkinsfile-pipeline-project
-jenkins
+jenkins-project
